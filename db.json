@@ -1,0 +1,112 @@
+{
+    "data": {
+        "message": null,
+        "errors": null,
+        "data": {
+            "recordsLength": 1046,
+            "list": [
+                {
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                },{
+                    "rowNumber": 0,
+                    "entitlementId": 0,
+                    "entitlementIdentifier": "string",
+                    "dateTimeCreated": "2021-09-12T15:17:45.392Z",
+                    "startdate": "2021-09-12T15:17:45.392Z",
+                    "enddate": "2021-09-12T15:17:45.392Z",
+                    "entitlementFriendlyName": "string",
+                    "entitlementType": "string"
+                }
+            ]
+        },
+        "isExceptionRaised": false,
+        "exceptionMessage": null
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "content-length": "124699",
+        "content-type": "application/json; charset=utf-8"
+    },
+    "config": {},
+    "request": {}
+}
